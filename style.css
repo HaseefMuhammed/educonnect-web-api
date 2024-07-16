@@ -109,3 +109,29 @@ body{
   75%{border-bottom: 2px solid red;}
   100%{border-left: 2px solid red;}
 }
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.alert{
+  width: 20em;
+}
+.info{
+  text-align: center;
+  font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
+  color: white;
+}
+
+.copy-success {
+  opacity: 0;
+  transition: opacity 0.3s;
+  font-weight: bolder;
+}
+.show-success {
+  opacity: 1;
+  font-weight: bolder;
+}

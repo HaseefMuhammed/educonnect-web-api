@@ -17,3 +17,5 @@ function getGreeting() {
 }
 
 document.getElementById("greeting").textContent = getGreeting();
+
+// Copy
