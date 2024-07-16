@@ -118,11 +118,12 @@ body{
   width: 20em;
 }
 .info{
-  text-align: center;
-  font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
   font-weight: bolder;
+  text-transform: uppercase;
   font-style: normal;
+  text-align: center;
   color: white;
 }
 
